@@ -26,9 +26,9 @@
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> First Project as Micronauts
 
-**[Hello Microverse]** is a...
+**[Hello Microverse]** is a week one Project
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,9 +54,7 @@ In order to run this project you need:
 
 Node.js to install from the Node.js official Website.
 
-```sh
-  [Node.js](https://nodejs.org/en)
-```
+[Node.js](https://nodejs.org/en)
 
 ### Setup
 
